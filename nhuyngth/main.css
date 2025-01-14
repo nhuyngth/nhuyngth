@@ -1,0 +1,9 @@
+#searchbar {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#searchbar input[type="text"] {
+    width: 350px; 
+  }
